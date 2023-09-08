@@ -1,0 +1,6 @@
+1692725240737	Extract method 'getLoggedInUsername'
+1692783817968	Extract local variable 'username'
+1692783854756	Extract local variable 'password'
+1692783936875	Extract method 'createNewUser'
+1692784018909	Inline local variable 'username'
+1692784027293	Inline local variable 'password'

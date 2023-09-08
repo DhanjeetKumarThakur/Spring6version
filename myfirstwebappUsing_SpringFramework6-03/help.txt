@@ -1,0 +1,8 @@
+#This project is to remove the unwanted methods and doing authentication using Spring Security.
+
+#Spring Security Configurations
+We have used PasswordEncoder implemented class BCryptPasswordEncoder for encoding the password
+and as we are not used any database so we used InMemoryUserDetailsManager to create and store the
+UserName and Password (User Credentials).
+
+Here we will try to remove all hard coded values from our code

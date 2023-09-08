@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;myfirstwebappusingspringboot3/src/main/resources/META-INF/resources/WEB-INF/jsp/common/header.jsp&apos; to &apos;header.jspf&apos;" description="Rename resource &apos;header.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/META-INF/resources/WEB-INF/jsp/common/header.jsp" name="header.jspf" stamp="1691932002256" updateReferences="true"/>
+</session>
